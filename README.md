@@ -14,7 +14,7 @@
 
 ```bash
 git clone https://github.com/fer000n/telegram2rss.git
-cd telegram-rss-script
+cd telegram2rss
 ```
 
 2. وابستگی ها را نصب کنید:
