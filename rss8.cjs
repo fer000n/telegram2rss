@@ -357,7 +357,7 @@ const server = http.createServer(async (req, res) => {
 
         const queryObject = parsedUrl.query;
         const telegram_channel = queryObject.channel || 'lookonchainchannel';
-        const serverUrl = `http://ftp.raplim-home.ir`;
+        const serverUrl = `http://serverIP`;
 
         try {
             // Check if we have cached data
